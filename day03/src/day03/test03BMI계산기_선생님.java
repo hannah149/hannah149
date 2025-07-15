@@ -12,7 +12,7 @@ public class test03BMI계산기_선생님 {
 		
 		//연산
 		//float m=cm/100f;
-		float m=(float)cm/100;
+		float m=(float)/100;
 		float bmi=kg/(m*m);
 		
 		//소수점 두자리까지 제거
