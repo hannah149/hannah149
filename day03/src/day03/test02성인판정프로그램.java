@@ -29,7 +29,5 @@ public class test02성인판정프로그램 {
 			
 	
 	
-	
-	
-
+		}
 		}
